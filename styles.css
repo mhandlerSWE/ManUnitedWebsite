@@ -1,0 +1,90 @@
+body {
+    background-color: lightgreen;
+}
+
+h1 {
+    color: blue;
+    text-align: center;
+}
+
+a:hover {
+    color:red;
+}
+
+p {
+    font-family: verdana;
+    font-size: 15px;
+    font-style: normal;
+    text-align: center;
+    outline-color: orange;
+}
+
+ol {
+    background: #f87b7a;
+    padding: 5px;
+    font-family: verdana;
+    font-style: oblique;
+    margin-left: 15px;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+table {
+    width: 100%;
+}
+
+table, td {
+    border: 2px solid green;
+}
+
+theader {
+    height: 50px;
+    font-size: 25px;
+    font-style: inherit;
+}
+
+td {
+  padding: 15px;
+  text-align: center;
+}
+
+.NavBar
+{
+    float: left;
+    height: 100vh;
+    width: 15%;
+    background-color: powderblue;
+    color: orange;
+    font-weight: bold;
+    font-size: 25px;
+    border: blue;
+}
+
+
+.BodyDiv
+{
+    float: left;
+    margin-left: 5%;
+    width: 70%;
+}
+
+a
+{
+    color: SlateBlue;
+    text-align: center;
+}
+
+h2
+{
+    text-decoration: underline;
+    text-align: center;
+}
+
+p.ridge 
+{
+    outline-style: ridge;
+}
